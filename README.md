@@ -18,7 +18,7 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MaykGomes92)](LINK_GIT)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MaykGomes92)](https://github.com/MaykGomes92)
 
 
 [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=MaykGomes92)](https://github.com/MaykGomes92/github-readme-stats)
