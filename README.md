@@ -20,6 +20,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MaykGomes92)](https://github.com/MaykGomes92)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykGomes92&layout=compact&langs_count=7&theme=dracula"/>
 
 [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=MaykGomes92)](https://github.com/MaykGomes92/github-readme-stats)
 
