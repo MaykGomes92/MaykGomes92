@@ -2,17 +2,15 @@
 
  
 
-## I'm Mayk Gomes!
+## Eu sou, Mayk Gomes o/
 
  
 
-:computer: I'm Front-End Developer!
+:computer: Sou Desenvolvedor FrontEnd!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Moro no Brasil!
 
-:books: I’m currently learning everything.
-
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+Estou a procura da minha primeira oportunidade
 
  
 
