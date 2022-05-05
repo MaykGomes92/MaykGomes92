@@ -11,7 +11,9 @@
 :house_with_garden: Moro no Brasil!
 
  
+<a href="https://www.linkedin.com/in/mayk-gomes-11b86222b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
 
+ 
 ## About me
 
 
