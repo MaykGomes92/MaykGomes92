@@ -10,8 +10,6 @@
 
 :house_with_garden: Moro no Brasil!
 
-Estou a procura da minha primeira oportunidade
-
  
 
 ## About me
