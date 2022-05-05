@@ -14,7 +14,7 @@
 
 ## About me
 
-<a href="https://www.linkedin.com/in/mayk-gomes-11b86222b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykGomes92&layout=compact&langs_count=7&theme=dracula"/>
 
