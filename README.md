@@ -1,16 +1,13 @@
 # Welcome!
 
- 
-
 ## Eu sou, Mayk Gomes o/
-
- 
 
 :computer: Sou Desenvolvedor FrontEnd!
 
 :house_with_garden: Moro no Brasil!
 
- 
+
+<a href='https://portfolio-delta-three-11.vercel.app/?fbclid=IwAR2GC7qH_gBm7y4spKQQQ523IgDHBXJXN9ptMbTVQlHiVENHW60uB5ee-KY'>![image](https://user-images.githubusercontent.com/77819811/184817460-5b68ffe3-27da-4b23-860b-9f5a79f910f9.png)<a/>
 <a href="https://www.linkedin.com/in/mayk-gomes-11b86222b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
 
  
