@@ -26,5 +26,5 @@
 <img src='https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white' />
 </div>
 
-<img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' />
+<img src='https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white' />
 
