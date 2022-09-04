@@ -2,9 +2,9 @@
 
 ## Eu sou, Mayk Gomes o/
 
-:computer: Sou Desenvolvedor FrontEnd!
+:computer:  Sou Desenvolvedor FrontEnd!
 
-:house_with_garden: Moro no Brasil!
+:house_with_garden:  Moro no Brasil!
 
 
 <a href='https://portfolio-delta-three-11.vercel.app/'>![image](https://user-images.githubusercontent.com/77819811/184817460-5b68ffe3-27da-4b23-860b-9f5a79f910f9.png)<a/>
