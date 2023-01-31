@@ -28,3 +28,14 @@
 
 <img src='https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white' />
 
+## Mais +
+ 
+ Além das tecnologias e frameworks citados acima, citarei logo abaixo ferramentas relacionadas que também tenho conhecimento, assim como alguns métodos
+  
+ * Gerenciamento de dados globais
+ * Framer-Motion
+ * Jest & Testing Library
+ * Consumo de Api's
+ * Métodologias Ágeis
+ * Versionamento com Git
+ * E+
