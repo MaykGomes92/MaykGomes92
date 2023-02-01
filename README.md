@@ -17,7 +17,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykGomes92&layout=compact&langs_count=16&theme=dracula"/>
 
 
-
 <div style={display:'flex'}>
 <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' />
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
@@ -26,8 +25,6 @@
 <img src='https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white' />
 <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' />
 </div>
-
-<img src='https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white' />
 
 ## Mais +
  
