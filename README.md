@@ -30,6 +30,7 @@
  
  Além das tecnologias e frameworks citados acima, citarei logo abaixo ferramentas relacionadas que também tenho conhecimento, assim como alguns métodos
   
+ * Clean Code
  * Gerenciamento de dados globais
  * Framer-Motion
  * Jest & Testing Library
