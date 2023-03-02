@@ -9,6 +9,8 @@
 
 <a href='https://portfolio-delta-three-11.vercel.app/'>![image](https://user-images.githubusercontent.com/77819811/184817460-5b68ffe3-27da-4b23-860b-9f5a79f910f9.png)<a/>
 <a href="https://www.linkedin.com/in/mayk-gomes-11b86222b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+ 
+ <a href="https://api.whatsapp.com/send?phone=5521980748627&text=Ol%C3%A1%2C%20fique%20a%20vontade%20para%20mandar%20uma%20mensagem%20o%2F"><img src=" https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a/>
 
  
 ## About me
